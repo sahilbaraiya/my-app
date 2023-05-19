@@ -1,2 +1,2 @@
 # my-app
-this is a react project
+react book-store project
